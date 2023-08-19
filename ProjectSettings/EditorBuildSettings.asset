@@ -1,0 +1,56 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Scenes/0_First_Menu.unity
+    guid: 7322c04aeb820384b986ac0bdc81afcc
+  - enabled: 1
+    path: Assets/Scenes/1_Login.unity
+    guid: 1459fae45778f1c4fa8212cf93b9030f
+  - enabled: 1
+    path: Assets/Scenes/2_QR_Login.unity
+    guid: ba4a901837fb2964786f7f5bdea44f68
+  - enabled: 1
+    path: Assets/Scenes/3_Auto_menu_theory.unity
+    guid: d334a9f1105d9aa409ac47ee4ddbdabc
+  - enabled: 1
+    path: Assets/Scenes/4_Surface_AR_Turbina.unity
+    guid: a6a7284672870c045a1b7430f2737a09
+  - enabled: 0
+    path: 
+    guid: 00000000000000000000000000000000
+  - enabled: 1
+    path: Assets/Scenes/5_Target_AR_Turbina.unity
+    guid: c20bd0a91453907408ff10e088f1732f
+  - enabled: 1
+    path: Assets/Scenes/6_Surface_Ormat.unity
+    guid: 2ca568cd313b03549b6e2ebfaab82a0c
+  - enabled: 0
+    path: Assets/Scenes/7_Target_Ormat.unity
+    guid: 3a9770582ea45dd4eb500c3efb81332c
+  - enabled: 0
+    path: Assets/Scenes/7_Target_ORMAT new.unity
+    guid: ddbd78139db610b4ab4e00a4c024e0d6
+  - enabled: 1
+    path: Assets/Scenes/8_ORMAT.unity
+    guid: 1ea528f7634bd9d41bc3f22f82cf3017
+  m_configObjects:
+    EasyAR.Settings: {fileID: 11400000, guid: ee87c8b993e94564a9f086545b8b23fe, type: 2}
+    Unity.XR.WindowsMR.Settings: {fileID: 11400000, guid: 744b813df90924c169af73489b8325de,
+      type: 2}
+    UnityEditor.XR.ARCore.ARCoreSettings: {fileID: 11400000, guid: 40c00ae02155d3849a413aa916a5d651,
+      type: 2}
+    UnityEditor.XR.ARKit.ARKitSettings: {fileID: 11400000, guid: de8a8e4f987434338a4b1062feb8d069,
+      type: 2}
+    com.unity.xr.arcore.PlayerSettings: {fileID: 11400000, guid: c2f7b8d7c0bff4d10874cbcf3f24af78,
+      type: 2}
+    com.unity.xr.arkit.PlayerSettings: {fileID: 11400000, guid: b27ec7d82a91a48e69fd689ad6808e5e,
+      type: 2}
+    com.unity.xr.magicleap.magic_leap_settings: {fileID: 11400000, guid: 1eb95d77acb39444e8cf44313496a874,
+      type: 2}
+    com.unity.xr.management.loader_settings: {fileID: 11400000, guid: 58f40b12bbc864f3c96c6505a9a1e1e3,
+      type: 2}
